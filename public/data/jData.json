@@ -1,0 +1,37 @@
+[
+  {
+    "name": "OK.ru",
+    "url": "//ok.ru/videoembed/8039132826290",
+    "type": "Okru",
+    "subtitles": [
+      { "label": "English", "src": "path_to_english_subtitles.vtt" },
+      { "label": "Español", "src": "path_to_spanish_subtitles.vtt" }
+    ],
+    "audioTracks": [
+      { "label": "Original", "src": "path_to_original_audio.mp4" },
+      { "label": "English", "src": "path_to_english_audio.mp4" },
+      { "label": "Español", "src": "path_to_spanish_audio.mp4" }
+    ]
+  },
+  {
+    "name": "YouTube",
+    "type": "YouTube",
+    "url": "https://www.youtube.com/embed/c5j7lpWprro?si=U3uMbgVm9JtSpjx4",
+    "subtitles": [],
+    "audioTracks": []
+  },
+  {
+    "name": "Otro",
+    "type": "Standard",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "subtitles": [],
+    "audioTracks": []
+  },
+  {
+    "name": "YouTube",
+    "type": "YouTube",
+    "url": "https://www.youtube.com/embed/c5j7lpWprro?si=U3uMbgVm9JtSpjx4",
+    "subtitles": [],
+    "audioTracks": []
+  }
+]
